@@ -9,5 +9,6 @@ public class GitText {
         System.out.println("master分支");
         System.out.println("hot-fix 分支提交!");
         System.out.println("push text!");
+        System.out.println("pull text!");
     }
 }
